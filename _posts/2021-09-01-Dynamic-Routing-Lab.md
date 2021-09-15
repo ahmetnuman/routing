@@ -5,7 +5,7 @@ tags: Dynamic Routing Topology and Tasks
 categories: dynamicRouting
 ---
 
-# Routing Switching
+# Routing Labs
 
 > Ahmet Numan Aytemiz 01.09.2021
 

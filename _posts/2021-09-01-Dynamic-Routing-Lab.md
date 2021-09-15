@@ -11,7 +11,7 @@ categories: dynamicRouting
 
 ## Routing Topology and Tasks
 
-![topology](topology.png)
+![topology](/img/topology.png)
 
 
 #### According to topology perform following tasks

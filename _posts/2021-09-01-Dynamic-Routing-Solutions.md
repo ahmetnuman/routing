@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Dynamic Routing Labs Topology and Tasks
-tags: Dynamic Routing Topology and Tasks
+title: Dynamic Routing Solutions
+tags: Dynamic Routing Solutions
 categories: dynamicRouting
 ---
-
-## Routing Solutions
 
 > Ahmet Numan Aytemiz 01.09.2021
 

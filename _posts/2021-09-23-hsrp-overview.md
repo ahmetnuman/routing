@@ -16,11 +16,6 @@ categories: hsrp
 - Default priorty 100
 - Virtual Mac address: 0000.0c07.acxx
   - xx refers to the group number in hexadecimal  
-
-| Router1      | Router2 |
-| ----------- | ----------- |
-| `int vlan 20` </br> `ip add 20.20.0.9/16` </br> `(HSRP Group 20)` </br> `HSRP Group 20 Virtual Ip 20.20.0.1`       | `int vlan 20` </br> `ip add 20.20.0.10/16` </br> `(HSRP Group 20)` </br> `HSRP Group 20 Virtual Ip 20.20.20.1`|
-
 - Preemption default by default
 - No load sharing feature
 

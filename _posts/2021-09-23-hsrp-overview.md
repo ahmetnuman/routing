@@ -59,11 +59,11 @@ categories: hsrp
 - HSRP can track objects like interfaces, ip adress
 - If tracked object fails, HSRP priority is reduced by configurable amount (default 10)
 
-`router-1(config)#track 1 interface fastethernet 0/21 line-protocol`
-`router-1(config-if)#standby group track <object#> [decrement value]`
+- `router-1(config)#track 1 interface fastethernet 0/21 line-protocol`
+- `router-1(config-if)#standby group track <object#> [decrement value]`
 
 ## Verify HSRP 
 
-`show standby`
-`show standby brief`
+- `show standby`
+- `show standby brief`
 

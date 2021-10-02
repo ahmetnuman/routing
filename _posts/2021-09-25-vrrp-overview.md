@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Virtual Routing Redundancy 
-tags: Virtual Routing Redundancy
+title: Virtual Routing Redundancy Protocol
+tags: Virtual Routing Redundancy Protocol
 categories: vrrp
 ---
 

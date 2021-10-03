@@ -5,7 +5,7 @@ tags: Gateway Load Balancing Protocol Protocol
 categories: glbp
 ---
 
-> Ahmet Numan Aytemiz , 26.09.2021
+> Ahmet Numan Aytemiz , 10.03.2021
 
 ---
 

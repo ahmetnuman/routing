@@ -10,7 +10,7 @@ categories: bgp
 ---
 
 - There are two types of neighbours in BGP:
-  - **internal BGP (İbgp)**
+  - **internal BGP (iBGP)**
   - **external BGP (eBGP)**
 - When a BGP neighbourship is formed between routers that are in the same AS, they are iBGP neighbours
 - When a BGP neighbourship is formed between routers that are in the diffrent AS, ther are eBGP neighbours.

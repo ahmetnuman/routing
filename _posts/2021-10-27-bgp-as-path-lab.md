@@ -11,7 +11,7 @@ categories: bgp
 
 **Tasks**
 
-1. Configure hostnames adn IP addresses on all routers as illustrated in the network topology.
+1. Configure hostnames and IP addresses on all routers as illustrated in the network topology.
 2. Configure VPC's IP address.
 3. Configure eBGP neigborship between, bu using phsical interfaces ;
   - R1 <---> R2
@@ -38,6 +38,10 @@ categories: bgp
 12. On the R4, configure route-map, set next-hop attribure 34.34.34.2 and inject it R2 
 13. Examine routers bgp table 
 14. trace from 1.1.1.10 to 7.7.7.10 and verify the packets path (R1 --> R2 --> R3 --> R4 --> R7) 
+
+---
+
+
 
 
 

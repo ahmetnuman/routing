@@ -39,3 +39,6 @@ categories: bgp
 - Routing Table
 
 ![Image](/img/eigrp-intro.png)
+
+- [Eigrp Pcap File](https://github.com/ahmetnuman/routing/raw/main/eigrp-intro.pcapng)
+

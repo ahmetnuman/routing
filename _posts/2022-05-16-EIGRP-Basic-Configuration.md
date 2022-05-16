@@ -5,7 +5,7 @@ tags: Eigrp Basic Configuration
 categories: eigrp
 ---
 
-> Ahmet Numan Aytemiz , 15.05.2022
+> Ahmet Numan Aytemiz , 16.05.2022
 
 ---
 

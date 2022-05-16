@@ -1,8 +1,8 @@
 ---
 layout: post
-title: eigrp introduction
-tags: eigrp introduction
-categories: bgp
+title: Eigrp Introduction
+tags: Eigrp Introduction
+categories: eigrp
 ---
 
 > Ahmet Numan Aytemiz , 15.05.2022
